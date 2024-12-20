@@ -5,7 +5,7 @@ stuff with images and videos.
 
 ### This contains:
 <ol>
-    <li><a href="Section - 1: NumPy and Image basics">Numpy and Image basics</a></li>
+    <li><a href="./Section\ -\ 1:\ NumPy\ and\ Image\ basics/00-NumPy-Arrays.ipynb">Numpy and Image basics</a></li>
         <ul>
             <li><a href="Section - 1: NumPy and Image basics/00-NumPy-Arrays.ipynb">Numpy Arrays</a></li>
             <li><a href="Section - 1: NumPy and Image basics/01-Images-and-NumPy.ipynb">Images and Numpy</a></li>
