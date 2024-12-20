@@ -5,7 +5,7 @@ stuff with images and videos.
 
 ### This contains:
 <ol>
-    <li><a href="./Section\ -\ 1:\ NumPy\ and\ Image\ basics">Numpy and Image basics</a></li>
+    <li><a href="https://github.com/VishnuRathore98/Computer-Vision-with-OpenCV-and-Deep-Learning/blob/c645b8d4e08683a404daeda71aa563dc997ae9c2/Section%20-%201:%20NumPy%20and%20Image%20basics">Numpy and Image basics</a></li>
         <ul>
             <li><a href="Section - 1: NumPy and Image basics/00-NumPy-Arrays.ipynb">Numpy Arrays</a></li>
             <li><a href="Section - 1: NumPy and Image basics/01-Images-and-NumPy.ipynb">Images and Numpy</a></li>
